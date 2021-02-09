@@ -31,8 +31,9 @@ class HomePage extends React.Component {
     return ( 
       <React.Fragment>
         {/* <Header /> */}
-        {currentlyVisibleState}
-        <button onClick={this.handleClick}>{buttonText}</button>
+          {currentlyVisibleState}
+          <button onClick={this.handleClick}>{buttonText}</button>
+        
       </React.Fragment>
     );
   }

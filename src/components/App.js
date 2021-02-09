@@ -7,8 +7,10 @@ function App() {
   return (
     <React.Fragment>
       <div class="container">
+        <div class="box">
+          <HomePage />
+        </div>
         {/* <Header /> */}
-        <HomePage />
       </div>  
     </React.Fragment>
   );

@@ -4,8 +4,8 @@ import PropTypes from "prop-types";
 function Weekday(props){
   return (
     <React.Fragment>
-      <p>{props.day}</p>
-      <p>{props.location}</p>
+      <h3>{props.day}</h3>
+      <p><strong>{props.location}</strong></p>
       <p>{props.hours}</p>
       <p>{props.booth}</p>
       <hr />
