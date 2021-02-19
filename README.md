@@ -8,7 +8,7 @@
 ## **Description**
 This is a website to show a user what products, from a Farmers Market, are in stock throughout the year. 
 ## **Setup**
-1. Copy this download link: https://github.com/calliestump/merch.git
+1. Copy this download link: https://github.com/calliestump/farmers-market.git
 2. Create a project directory where you would like to store your cloned project.
 3. Using bash/termianl, navigate to the cloned project folder.
 ```
@@ -17,7 +17,7 @@ $ cd [known directory]
 ```
 4. Clone the repo.
 ```
-git clone "https://github.com/calliestump/merch.git"
+git clone "https://github.com/calliestump/farmers-market.git"
 ```
 5. Open your cloned project with VS code:
 ```
